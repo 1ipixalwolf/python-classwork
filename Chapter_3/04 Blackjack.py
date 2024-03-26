@@ -4,6 +4,7 @@
 # user can choose to split their hand (double the bet and play each card separately) if user is dealt two of the same card. the program should always split if user is dealt two aces or two eights.
 
 # ask user to input the value of two cards. valid values: A, 2-10, J, Q, or K.
+# arbitrary comment
 print("Type a number 2-10, A, J, Q, or K")
 card1 = input()
 if card1 == "A":
